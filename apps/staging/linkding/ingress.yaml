@@ -6,7 +6,7 @@ metadata:
 spec:
   ingressClassName: traefik
   rules:
-    - host: ldpi.dietervon.dev
+    - host: lds.dietervon.dev
       http:
         paths:
           - backend:
