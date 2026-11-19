@@ -1,1 +1,4 @@
-age.agekey
+*.agekey
+*.crt
+*.key
+values.yaml
